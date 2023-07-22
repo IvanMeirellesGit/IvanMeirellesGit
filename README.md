@@ -1,7 +1,6 @@
 ### Ola, Eu sou Ivan Meirelles 👋
 
 - 🌱 Hoje eu estudo Front-end👩‍💻 e busco meu lugarzinho ao sol☀ junto da minha xicara de café☕
-- 💬 Ask me about ...
 - 📫 Contate-me no email: ivanmeirelles18@gmail.com
 - ⚡ Curto musica🎸, Games🎮 e café☕
 
